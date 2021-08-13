@@ -11,5 +11,7 @@ You can just copy the json configuration from settings.json and paste it to your
 ## contacts
 
 Toufiq Ahemd - [facebook.com/toufiqahmedshr](https://www.facebook.com/toufiqahmedshr)
+<br>
 Toufiq Ahemd - [twitter.com/toufiqahmedshr](https://www.twitter.com/toufiqahmedshr)
+<br>
 Toufiq Ahemd - [linkedin.com/in/toufiqahmedshr](https://www.linkedin.com/in/toufiqahmedshr)
