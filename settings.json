@@ -1,0 +1,57 @@
+{
+    // editor
+    "editor.fontSize": 17,
+    "editor.fontFamily": "Fira Mono, Operator Mono",
+    "editor.fontLigatures": true,
+    "editor.wordWrap": "on",
+    "editor.minimap.enabled": false,
+    "editor.tokenColorCustomizations": {
+      "textMateRules": [
+        {
+          "scope": "comment",
+          "settings": {
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    },
+    "css.validate": false,
+    "editor.quickSuggestions": {
+      "comments": false,
+      "strings": true
+    },
+  
+    // cursor
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+  
+    // config related to code formatting
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "[javascript]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": null
+    },
+    "[javascriptreact]": {
+      "editor.formatOnSave": false,
+      "editor.defaultFormatter": null
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true,
+      "source.fixAll.tslint": true,
+      "source.organizeImports": true
+    },
+    "eslint.alwaysShowStatus": true,
+  
+    //terminal
+    "terminal.integrated.fontSize": 16,
+    "terminal.integrated.fontWeight": "normal",
+    "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue"
+  }
+  
